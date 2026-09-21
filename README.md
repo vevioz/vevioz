@@ -1,27 +1,44 @@
-# Vevioz
+# Vevioz Enterprise
 
-Vevioz builds web services and developer tooling around media workflows.
+**Official website:** https://www.vevioz.com/  
+**Create an account:** https://www.vevioz.com/register  
+**About Vevioz:** https://www.vevioz.com/terms/about-us  
+**Help Center:** https://www.vevioz.com/help  
+**Blog:** https://www.vevioz.com/blogs
 
-## Public services
+Vevioz Enterprise is a social networking and digital community platform for people, brands, creators, and organizations to connect, communicate, publish content, and grow communities.
 
-### 🎵 Download Lagu MP3
-**https://download-lagu-mp3.com/**
+## What you can do on Vevioz
 
-A ready-to-use consumer downloader interface for supported media URLs, with MP3/MP4 format discovery.
+- Create a profile and connect with other people.
+- Publish posts and share moments with your network.
+- Discover community content, profiles, and conversations.
+- Use community features such as blogs, forums, marketplace, and media tools available across the Vevioz platform.
+- Access Vevioz developer and downloader services from the same ecosystem.
 
-### ⚙️ Vevioz Downloader API
-**https://api.vevioz.com/**
+## Join Vevioz
 
-Developer integration for websites and applications that need downloader workflows, metadata, available formats, and job-based processing.
+➡️ **Visit:** https://www.vevioz.com/  
+➡️ **Register:** https://www.vevioz.com/register
 
-### 🌐 Vevioz
-**https://www.vevioz.com/**
+## Vevioz ecosystem
 
-The main Vevioz platform.
+### Vevioz Downloader API
+https://api.vevioz.com/
 
-## Developer resources
+Developer integration for websites and applications that need metadata, available formats, downloader workflows, and job-based media processing.
 
-- Vevioz Downloader API examples: https://github.com/vevioz/Super-Fast-Free-YouTube-to-MP3-and-MP4-Converter-API
-- API service status: https://api.vevioz.com/status
+### Download Lagu MP3
+https://download-lagu-mp3.com/
 
-Use Vevioz services only for media you are authorized to access or download and comply with applicable platform terms and laws.
+A ready-to-use consumer downloader interface for supported media URLs.
+
+## Official resources
+
+- Vevioz: https://www.vevioz.com/
+- Register: https://www.vevioz.com/register
+- About: https://www.vevioz.com/terms/about-us
+- Help Center: https://www.vevioz.com/help
+- Blog: https://www.vevioz.com/blogs
+- Downloader API: https://api.vevioz.com/
+- Download Lagu MP3: https://download-lagu-mp3.com/
